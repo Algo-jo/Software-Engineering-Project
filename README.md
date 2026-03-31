@@ -1,2 +1,2 @@
 # Software-Engineering-Project
-unicomp
+The central hub for all campus-wide competitions. Never miss a deadline again.
